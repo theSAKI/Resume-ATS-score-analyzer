@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "Production-ready full-stack AI Resume Analyzer. Parses PDFs, calculates ATS score metrics, extracts skills, analyzes gaps against job descriptions, and generates improvement suggestions with before-and-after bullet points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
